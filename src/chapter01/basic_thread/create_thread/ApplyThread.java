@@ -1,6 +1,6 @@
 package chapter01.basic_thread.create_thread;
 
-public class ApplicationThread {
+public class ApplyThread {
     public static void main(String[] args) throws Exception {
 
         Thread thread = new Thread(()->{
