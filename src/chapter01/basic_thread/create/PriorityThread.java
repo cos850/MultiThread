@@ -1,4 +1,4 @@
-package chapter01.basic_thread.create_thread;
+package chapter01.basic_thread.create;
 
 public class PriorityThread extends Thread {
 

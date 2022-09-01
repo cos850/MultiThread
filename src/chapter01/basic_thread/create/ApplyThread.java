@@ -1,4 +1,4 @@
-package chapter01.basic_thread.create_thread;
+package chapter01.basic_thread.create;
 
 public class ApplyThread {
     public static void main(String[] args) {
